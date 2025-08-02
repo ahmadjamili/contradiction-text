@@ -28,5 +28,4 @@ This project performs sentiment classification on Persian-language food delivery
 
 
 
-## 📁 Project Structure
 
